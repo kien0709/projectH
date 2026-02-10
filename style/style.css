@@ -93,9 +93,10 @@ body {
 }
 
 .idea-3 strong {
-  padding: 3px 5px;
+  padding: 2px 4px;
   border-radius: 3px;
   display: inline-block;
+  box-sizing: border-box;
 }
 
 .five .idea-5 {
